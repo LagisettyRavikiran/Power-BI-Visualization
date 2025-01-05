@@ -45,6 +45,8 @@ Power BI is a powerful tool for transforming raw data into actionable insights. 
 | 1   | Sample Sales Data | Built a simple sales dashboard with key KPIs. |
 
 ---
+![Day 1 Dashboard](screenshots/day1-dashboard.png)
+---
 
 ## How to Use This Repository 📂
 Each day's work will be stored in a separate folder, including:
